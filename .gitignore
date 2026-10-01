@@ -1,0 +1,14 @@
+   node_modules/
+   dist/
+   .vite/
+   __pycache__/
+   *.pyc
+   venv/
+   .venv/
+   .ipynb_checkpoints/
+   .env
+   .env.*
+   .DS_Store
+   Thumbs.db
+   .vscode/
+   .idea/
